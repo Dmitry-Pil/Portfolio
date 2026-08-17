@@ -30,14 +30,14 @@
 * **Role:** Frontend Developer & UI Designer
 * **Stack:** Vue 3, Pinia, Vue Router, I18n, REST API
 * **Summary:** Authentication system with multi-language switching (i18n), dynamic state management, and protected routing.
-* **Links:** [https://github.com/Dmitry-Pil/Bilingual-Login-Page](https://github.com/Dmitry-Pil/Bilingual-Login-Page)
+* **Links:** [Code Repository](https://github.com/Dmitry-Pil/Bilingual-Login-Page)
 ---
 
 ### 04. Task Management App
 * **Role:** Frontend Developer & UI Designer
 * **Stack:** Vue 3, Pinia, SCSS, LocalStorage / REST API
 * **Summary:** Interactive task tracking dashboard featuring category filtering, state persistence, and clean UI components.
-* **Links:** [https://github.com/Dmitry-Pil/task-manager](https://github.com/Dmitry-Pil/task-manager)
+* **Links:** [Code Repository](https://github.com/Dmitry-Pil/Vue-To-Do-App)
 ---
 
 ## Tech & Tooling
