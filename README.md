@@ -23,7 +23,7 @@
 * **Role:** Frontend Developer & UI Designer
 * **Stack:** Vue 3, TanStack Query, SCSS, REST API, Smart TTL Caching
 * **Summary:** API-driven web application featuring real-time filtering, state persistence, and responsive editorial layout.
-
+* **Links:** [Code Repository](https://github.com/Dmitry-Pil/Dogger)
 ---
 
 ### 03. Bilingual Auth & UI Experience
