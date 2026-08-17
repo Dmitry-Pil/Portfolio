@@ -24,6 +24,7 @@
 * **Stack:** Vue 3, TanStack Query, SCSS, REST API, Smart TTL Caching
 * **Summary:** API-driven web application featuring real-time filtering, state persistence, and responsive editorial layout.
 * **Links:** [Code Repository](https://github.com/Dmitry-Pil/Dogger)
+             [Live Demo](https://dogger-mu.vercel.app/)
 ---
 
 ### 03. Bilingual Auth & UI Experience
@@ -31,6 +32,8 @@
 * **Stack:** Vue 3, Pinia, Vue Router, I18n, REST API
 * **Summary:** Authentication system with multi-language switching (i18n), dynamic state management, and protected routing.
 * **Links:** [Code Repository](https://github.com/Dmitry-Pil/Bilingual-Login-Page)
+             [Live Demo](https://bilingual-login-page.vercel.app/)
+
 ---
 
 ### 04. Task Management App
@@ -38,6 +41,7 @@
 * **Stack:** Vue 3, Pinia, SCSS, LocalStorage / REST API
 * **Summary:** Interactive task tracking dashboard featuring category filtering, state persistence, and clean UI components.
 * **Links:** [Code Repository](https://github.com/Dmitry-Pil/Vue-To-Do-App)
+             [Live Demo](https://vue-to-do-app-nu.vercel.app/)
 ---
 
 ## Tech & Tooling
