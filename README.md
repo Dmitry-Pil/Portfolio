@@ -42,7 +42,14 @@
 * **Summary:** Interactive task tracking dashboard featuring category filtering, state persistence, and clean UI components.
 * **Links:** [Code Repository](https://github.com/Dmitry-Pil/Vue-To-Do-App)
              [Live Demo](https://vue-to-do-app-nu.vercel.app/)
+             
 ---
+
+### 05. Scroll World — Time With You
+* **Role:** Frontend Developer, UI Designer & Visual Creator
+* **Stack:** Vue 3, Vite, SCSS, GSAP
+* **Summary:** Scroll-driven visual storytelling experience featuring a continuous zoom-out video, synchronized word-by-word typography, and responsive full-screen composition.
+* **Links:** [Code Repository]()
 
 ## Tech & Tooling
 
