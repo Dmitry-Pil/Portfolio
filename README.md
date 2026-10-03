@@ -49,7 +49,7 @@
 * **Role:** Frontend Developer, UI Designer & Visual Creator
 * **Stack:** Vue 3, Vite, SCSS, GSAP
 * **Summary:** Scroll-driven visual storytelling experience featuring a continuous zoom-out video, synchronized word-by-word typography, and responsive full-screen composition.
-* **Links:** [Code Repository]()
+* **Links:** [Code Repository](https://github.com/Dmitry-Pil/Scroll-World)
 
 ## Tech & Tooling
 
