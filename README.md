@@ -50,6 +50,7 @@
 * **Stack:** Vue 3, Vite, SCSS, GSAP
 * **Summary:** Scroll-driven visual storytelling experience featuring a continuous zoom-out video, synchronized word-by-word typography, and responsive full-screen composition.
 * **Links:** [Code Repository](https://github.com/Dmitry-Pil/Scroll-World)
+             [Live Demo](https://scroll-world-three.vercel.app/)
 
 ## Tech & Tooling
 
